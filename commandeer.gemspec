@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.authors	= ['Oleg Kolesnichenko']
   s.email	= 'kolesnichenko.main@gmail.com'
   s.files	= ['lib/commandeer.rb', 'lib/commandeer/base.rb', 'lib/commandeer/error.rb']
-  s.homepage	= 'https://rubygems.org/gems/commandeer'
+  s.homepage	= 'git@github.com:okolesnichenko/commandeer.git'
   s.license	= 'MIT'
 end
