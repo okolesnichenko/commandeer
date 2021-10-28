@@ -1,0 +1,15 @@
+.idea
+*.env
+!.example.env
+.byebug_history
+log
+!log/.keep
+dump.rdb
+
+#helm
+*.yaml.dec
+*.tgz
+tmp
+!tmp/.keep
+dump.rdb
+
