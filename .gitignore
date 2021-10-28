@@ -5,6 +5,8 @@
 log
 !log/.keep
 dump.rdb
+*.swp
+*.swo
 
 #helm
 *.yaml.dec
