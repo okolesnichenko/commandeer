@@ -2,7 +2,7 @@ module Commandeer
   class Base
     attr_accessor :success, :data, :error, :options
 
-    def initialize(params)
+    def initialize(params = {})
       @success = true
       @options = params
     end
